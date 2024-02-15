@@ -1,7 +1,7 @@
 <h1 align="left">Welcome Dude :)</h1>
 
 ### Hey
-<img align="right" alt="avatar" width="320" src="https://64.media.tumblr.com/d4d71de9193c952ac5282e82a022cc81/tumblr_n118kxgjYu1s1rd1xo1_500.gif"> 
+<img align="right" alt="avatar" width="320" src="https://i.pinimg.com/originals/bd/ec/4b/bdec4b1e34dc84a380e58f596766182d.gif"> 
 
 ### 
 <h5 align="left">i'm working with :</h5>

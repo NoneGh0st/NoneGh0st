@@ -1,23 +1,33 @@
-<h1 align="left">Welcome Dude :)</h1>
+<h2 align="left">Hi i'm GH0ST, Welcome To My Page.</h2>
 
-### Hey
-<img align="right" alt="avatar" width="320" src="https://i.pinimg.com/originals/bd/ec/4b/bdec4b1e34dc84a380e58f596766182d.gif"> 
+###
 
-### 
-<h5 align="left">i'm working with :</h5>
+<img align="right" height="150" src="//i.imgflip.com/8imf89.gif"  />
 
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=go" height="30" alt="go logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
 </div>
+
+###
+
+<div align="left">
+  <a href="https://t.me/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/NoneGhost/NoneGhost/output/snake.svg" alt="Snake animation" />
 
 ###
